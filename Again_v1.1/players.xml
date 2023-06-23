@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<persistentplayerdata>
+  <player platform="EOS" userid="0002b7a44c3c454aa40dee06a99f582a" playername="Hunterhec" lastlogin="2023-05-27 00:48:13">
+    <acl platform="EOS" userid="00028913ab3d400ba8fbd5bac730b783" />
+    <acl platform="EOS" userid="0002ab6968f943f69314c36fa03fe4d7" />
+    <acl platform="EOS" userid="0002f79efbf945b39f878bcf89b1ea26" />
+    <acl platform="EOS" userid="000214744bf24f68b73233e4025ca7cc" />
+    <acl platform="EOS" userid="0002fccb498845d9b44ed7d3d68f5475" />
+    <acl platform="EOS" userid="00021e97e6fb4c91b8dd630829a468f5" />
+    <acl platform="EOS" userid="000210e6bb624b4a8d8142836fef88da" />
+    <acl platform="EOS" userid="000253e0b06f44de968b5e82fd248c28" />
+    <acl platform="EOS" userid="0002c2aa3577440e9403de8cc03b1c1a" />
+    <acl platform="EOS" userid="000219b963ee4ec4b36333e2c1fcad4f" />
+    <bedroll pos="1153,45,1824" />
+  </player>
+  <player platform="EOS" userid="00028913ab3d400ba8fbd5bac730b783" playername="MirreySkywalker" lastlogin="2023-05-27 00:49:54">
+    <acl platform="EOS" userid="0002b7a44c3c454aa40dee06a99f582a" />
+    <acl platform="EOS" userid="0002c2aa3577440e9403de8cc03b1c1a" />
+    <acl platform="EOS" userid="0002ab6968f943f69314c36fa03fe4d7" />
+    <acl platform="EOS" userid="0002f79efbf945b39f878bcf89b1ea26" />
+    <acl platform="EOS" userid="000214744bf24f68b73233e4025ca7cc" />
+    <acl platform="EOS" userid="0002fccb498845d9b44ed7d3d68f5475" />
+    <acl platform="EOS" userid="000210e6bb624b4a8d8142836fef88da" />
+    <acl platform="EOS" userid="00021e97e6fb4c91b8dd630829a468f5" />
+    <acl platform="EOS" userid="000253e0b06f44de968b5e82fd248c28" />
+    <bedroll pos="1152,51,1857" />
+  </player>
+  <player platform="EOS" userid="0002c2aa3577440e9403de8cc03b1c1a" playername="mxgv" lastlogin="2023-04-30 02:01:49">
+    <acl platform="EOS" userid="00028913ab3d400ba8fbd5bac730b783" />
+    <acl platform="EOS" userid="0002ab6968f943f69314c36fa03fe4d7" />
+    <acl platform="EOS" userid="0002f79efbf945b39f878bcf89b1ea26" />
+    <acl platform="EOS" userid="000214744bf24f68b73233e4025ca7cc" />
+    <acl platform="EOS" userid="000210e6bb624b4a8d8142836fef88da" />
+    <acl platform="EOS" userid="0002b7a44c3c454aa40dee06a99f582a" />
+    <acl platform="EOS" userid="00021e97e6fb4c91b8dd630829a468f5" />
+    <acl platform="EOS" userid="000253e0b06f44de968b5e82fd248c28" />
+    <acl platform="EOS" userid="0002fccb498845d9b44ed7d3d68f5475" />
+    <bedroll pos="1153,45,1830" />
+  </player>
+  <player platform="EOS" userid="0002ab6968f943f69314c36fa03fe4d7" playername="iCrelus" lastlogin="2023-05-16 00:35:10">
+    <acl platform="EOS" userid="00028913ab3d400ba8fbd5bac730b783" />
+    <acl platform="EOS" userid="0002b7a44c3c454aa40dee06a99f582a" />
+    <acl platform="EOS" userid="0002c2aa3577440e9403de8cc03b1c1a" />
+    <acl platform="EOS" userid="000214744bf24f68b73233e4025ca7cc" />
+    <acl platform="EOS" userid="00021e97e6fb4c91b8dd630829a468f5" />
+    <acl platform="EOS" userid="0002f79efbf945b39f878bcf89b1ea26" />
+    <bedroll pos="1393,50,1829" />
+  </player>
+  <player platform="EOS" userid="0002f79efbf945b39f878bcf89b1ea26" playername="Thulral" lastlogin="2023-05-27 00:30:01">
+    <acl platform="EOS" userid="0002b7a44c3c454aa40dee06a99f582a" />
+    <acl platform="EOS" userid="00028913ab3d400ba8fbd5bac730b783" />
+    <acl platform="EOS" userid="0002c2aa3577440e9403de8cc03b1c1a" />
+    <acl platform="EOS" userid="0002fccb498845d9b44ed7d3d68f5475" />
+    <acl platform="EOS" userid="000214744bf24f68b73233e4025ca7cc" />
+    <acl platform="EOS" userid="000210e6bb624b4a8d8142836fef88da" />
+    <acl platform="EOS" userid="00021e97e6fb4c91b8dd630829a468f5" />
+    <acl platform="EOS" userid="000253e0b06f44de968b5e82fd248c28" />
+    <acl platform="EOS" userid="0002ab6968f943f69314c36fa03fe4d7" />
+    <acl platform="EOS" userid="000219b963ee4ec4b36333e2c1fcad4f" />
+  </player>
+  <player platform="EOS" userid="00021e97e6fb4c91b8dd630829a468f5" playername="Memenchaz" lastlogin="2023-05-22 20:59:20">
+    <acl platform="EOS" userid="0002b7a44c3c454aa40dee06a99f582a" />
+    <acl platform="EOS" userid="0002fccb498845d9b44ed7d3d68f5475" />
+    <acl platform="EOS" userid="00028913ab3d400ba8fbd5bac730b783" />
+    <acl platform="EOS" userid="000210e6bb624b4a8d8142836fef88da" />
+    <acl platform="EOS" userid="0002f79efbf945b39f878bcf89b1ea26" />
+    <acl platform="EOS" userid="000253e0b06f44de968b5e82fd248c28" />
+    <acl platform="EOS" userid="000214744bf24f68b73233e4025ca7cc" />
+    <acl platform="EOS" userid="0002c2aa3577440e9403de8cc03b1c1a" />
+    <acl platform="EOS" userid="0002ab6968f943f69314c36fa03fe4d7" />
+    <bedroll pos="1141,45,1857" />
+  </player>
+  <player platform="EOS" userid="000214744bf24f68b73233e4025ca7cc" playername="B33THO" lastlogin="2023-05-27 00:47:33">
+    <acl platform="EOS" userid="0002b7a44c3c454aa40dee06a99f582a" />
+    <acl platform="EOS" userid="00028913ab3d400ba8fbd5bac730b783" />
+    <acl platform="EOS" userid="0002fccb498845d9b44ed7d3d68f5475" />
+    <acl platform="EOS" userid="0002c2aa3577440e9403de8cc03b1c1a" />
+    <acl platform="EOS" userid="000253e0b06f44de968b5e82fd248c28" />
+    <acl platform="EOS" userid="0002f79efbf945b39f878bcf89b1ea26" />
+    <acl platform="EOS" userid="00021e97e6fb4c91b8dd630829a468f5" />
+    <acl platform="EOS" userid="0002ab6968f943f69314c36fa03fe4d7" />
+    <acl platform="EOS" userid="000210e6bb624b4a8d8142836fef88da" />
+    <acl platform="EOS" userid="000219b963ee4ec4b36333e2c1fcad4f" />
+    <bedroll pos="1118,39,1826" />
+  </player>
+  <player platform="EOS" userid="0002fccb498845d9b44ed7d3d68f5475" playername="trespatines" lastlogin="2023-05-27 00:50:44">
+    <acl platform="EOS" userid="0002b7a44c3c454aa40dee06a99f582a" />
+    <acl platform="EOS" userid="00021e97e6fb4c91b8dd630829a468f5" />
+    <acl platform="EOS" userid="000214744bf24f68b73233e4025ca7cc" />
+    <acl platform="EOS" userid="00028913ab3d400ba8fbd5bac730b783" />
+    <acl platform="EOS" userid="000210e6bb624b4a8d8142836fef88da" />
+    <acl platform="EOS" userid="0002f79efbf945b39f878bcf89b1ea26" />
+    <acl platform="EOS" userid="000253e0b06f44de968b5e82fd248c28" />
+    <acl platform="EOS" userid="0002c2aa3577440e9403de8cc03b1c1a" />
+    <acl platform="EOS" userid="000219b963ee4ec4b36333e2c1fcad4f" />
+    <bedroll pos="1152,45,1824" />
+  </player>
+  <player platform="EOS" userid="000210e6bb624b4a8d8142836fef88da" playername="Notice me senpai" lastlogin="2023-05-27 00:48:03">
+    <acl platform="EOS" userid="00028913ab3d400ba8fbd5bac730b783" />
+    <acl platform="EOS" userid="0002b7a44c3c454aa40dee06a99f582a" />
+    <acl platform="EOS" userid="0002c2aa3577440e9403de8cc03b1c1a" />
+    <acl platform="EOS" userid="00021e97e6fb4c91b8dd630829a468f5" />
+    <acl platform="EOS" userid="0002fccb498845d9b44ed7d3d68f5475" />
+    <acl platform="EOS" userid="0002f79efbf945b39f878bcf89b1ea26" />
+    <acl platform="EOS" userid="000214744bf24f68b73233e4025ca7cc" />
+    <acl platform="EOS" userid="000253e0b06f44de968b5e82fd248c28" />
+    <acl platform="EOS" userid="000219b963ee4ec4b36333e2c1fcad4f" />
+  </player>
+  <player platform="EOS" userid="000253e0b06f44de968b5e82fd248c28" playername="Cxox &quot;El Si pops&quot;" lastlogin="2023-05-21 23:07:04">
+    <acl platform="EOS" userid="0002b7a44c3c454aa40dee06a99f582a" />
+    <acl platform="EOS" userid="0002f79efbf945b39f878bcf89b1ea26" />
+    <acl platform="EOS" userid="00021e97e6fb4c91b8dd630829a468f5" />
+    <acl platform="EOS" userid="000214744bf24f68b73233e4025ca7cc" />
+    <acl platform="EOS" userid="0002c2aa3577440e9403de8cc03b1c1a" />
+    <acl platform="EOS" userid="0002fccb498845d9b44ed7d3d68f5475" />
+    <acl platform="EOS" userid="000210e6bb624b4a8d8142836fef88da" />
+    <acl platform="EOS" userid="00028913ab3d400ba8fbd5bac730b783" />
+    <bedroll pos="1151,45,1825" />
+  </player>
+  <player platform="EOS" userid="000219b963ee4ec4b36333e2c1fcad4f" playername="BIG JUICY WEEB" lastlogin="2023-05-22 22:47:18">
+    <acl platform="EOS" userid="000210e6bb624b4a8d8142836fef88da" />
+    <acl platform="EOS" userid="0002f79efbf945b39f878bcf89b1ea26" />
+    <acl platform="EOS" userid="0002b7a44c3c454aa40dee06a99f582a" />
+    <acl platform="EOS" userid="000214744bf24f68b73233e4025ca7cc" />
+    <acl platform="EOS" userid="0002fccb498845d9b44ed7d3d68f5475" />
+  </player>
+</persistentplayerdata>
